@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+#wrap{
+	width: 971px;
+	margin:0 auto;
+	
+}
+h2{
+	color: #87cefa;
+	
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+	font-size:12px;
+	line-height: 24px;
+	text-align: center;
+}
+td,th{
+	border: 1px solid GREEN;
+	padding: 5px;
+	
+}
+th{
+	background-color:#87cefa;
+}
+img{
+	width: 220px;
+	height: 300px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	
+}
+a:hover{
+	text-decoration: underline;
+	color:green;
+}
